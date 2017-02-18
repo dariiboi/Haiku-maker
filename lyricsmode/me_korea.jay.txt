@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay Park f/ Hoody
+Album:  Everything You Wanted
+Song:   Me Like Yuh (Korean Version)
+Typed by: AZ Lyrics
+
+너무나 완벽한 밤이야
+네 움직임에 나는 미쳐
+조금 더 가까이 다가와
+애타게 기다리고 있어
+Gimme that work like you Riri
+Girl 너는 내 genie
+난 소원을 빌지
+Oh lemme see that thing baby
+지금 이순간이
+내가 기다려왔던 그 시간이야
+나의 몸짓을 보면
+니가 뭘 원하는지 감이 와
+춤을 계속 춰
+밤새도록 안 피곤하니까
+네 눈빛에 난 취했어
+영원히 안 깨고 싶어
+So baby girl
+
+Wake up wake up
+Let's get it started
+Stay up stay up girl
+I be on it
+집 가지마 나랑은 괜찮아
+리드할게 so baby 따라와
+
+Baby me like yuh
+거부할 수 없는
+너의 지금 모습
+I hope you know it
+I hope you know it
+I hope you know it
+I hope you know it
+
+[Hoody:]
+Woo
+마치 홀린 것같이
+어느새 네 앞에
+서있어 나도 모르게
+이끌려 알 수 없게
+예상 못 한 건 아니야
+오늘만 기다렸어
+Oh let me see that ting baby
+지금 이 순간은
+어느 조명도 여긴 필요 없어
+우리 둘이 주고받는
+눈빛이면 충분하니까
+Woo 아까 네가 건넨
+술에 취한 게 아니라
+네 눈빛에 난 취했어
+영원히 안 깨고 싶어
+You know
+
+Wake up wake up
+Let's get it started
+Stay up stay up girl
+I be on it
+집 가지마 나랑은 괜찮아
+리드할게 so baby 따라와
+
+Baby me like yuh
+거부할 수 없는
+너의 지금 모습
+I hope you know it
+I hope you know it
+I hope you know it
+I hope you know it
+
+시원한 바람이 느껴져
+여기서 난 영원하고 싶어
+하늘이 우릴 내려봐
+저 별이 빛나도
+Your my star
+My star
+
+Baby me like yuh
+거부할 수 없는
+너의 지금 모습
+Baby me like yuh
+거부할 수 없는
+너의 지금 모습
+I hope you know it
+I hope you know it</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

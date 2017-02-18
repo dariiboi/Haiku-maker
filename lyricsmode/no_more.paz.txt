@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Vinnie Paz f/ Chris Rivers, Spit Gemz
+Album:  Carry On Tradition (EP)
+Song:   No More Games
+Typed by: AZ Lyrics
+
+[Chris Rivers]
+Yo, I'm a dark Abyss
+Apocalypse in my esophagus breathing phosphorous while kamikazes spit on top of it
+Stomp the continents in consequence of your incompetence
+My consciousness, emits the kind of cognac that you vomit with
+I'm kind of sick
+Comets hit with less of confidence
+So common is devoured galaxies in lines of optimus
+Galactus of the brain waves
+Captain of the mayday
+If God required 7, than I conquered on the 8th day
+My Dragons reign is red pain
+Blood Pumping through dead veins
+Entire mind's my left brain
+Creation caused my membranes
+Post apocalyptic vision of warlocks and witches
+With wisdom placed from incisions of surgically gifted children
+My intensities strike heaven's peace down to the guts of centipedes
+And dead MC's who's density rivers [?] scorched the seven seas
+
+No More games
+Set the world on fire screaming no more rain [x2]
+Rip your knees from your cartilage and bow to the king
+
+[Spit Gemz]
+57th passenger, fouler than your pastor is
+My mind's arachnid, masterful, weave a web of massacres
+Ambassador of cracking wigs, casket full of captured pigs
+I rap to the percussion of crushed skulls and snapped ribs
+The fact is I'm brutal, my backyard's like Lebanon
+A lexicon drinking cherub's blood from a devil's horn
+Peddle porn, dope, soap & hope like it's a telethon
+The metal drawn precise like a draftsman-accurate-shred velours
+And level all in radius, my razor rips with gracefulness
+I'll split your face, the stage & pavement, lift the blade then shred the skies
+Everything alive is jeopardized when I've been weaponized
+I specialize in genocide, seven lives beyond death
+My conquest stretches from Asgard to the Throggs Neck
+Mosh pit symphonies, center of the chaos, a marksman
+Shoot you out of the circle of your seance, fuck fortune
+You play the odds or lay your cards and forfeit, ahh
+
+No More games
+Set the world on fire screaming no more rain [x2]
+Rip your knees from your cartilage and bow to the king
+
+[Vinnie Paz]
+You think that sleeps an option?
+But sleep to me is like a lethal toxin
+I walk the street looking for meat so I can feed the goblin
+It takes a God's philosophy to conquer these concoctions
+Telekinesis between dolphins in the deepest cauldron
+Failure is never in my mind it couldn't be an option
+I went to Kashmir to see inside the Jesus coffin
+It's either heat or boxin, because the beast is watching
+Nobody ever wanted you, you had to seek adoption
+I have a lust for blood and that isn't a recent problem
+I have a lust for drugs, and not to mention drinking problems
+I put em in the motherfuckin' trash cause he a opossum
+I pull the stainless, make them shameless like if he was Rossum
+It's time to bring the fucking pain this is a demons doctrine
+I take the ox and slice you up like it was Dietz & Watzon
+Every rhyme I write is heroin, you need Suboxone
+Rest in peace, BLOCKA BLOCKA now you meeting Cochran</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

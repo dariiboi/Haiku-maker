@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Vinnie Paz f/ Slaine, Trademarc
+Album:  The Priest of Bloodshed (Mixtape)
+Song:   Man Made Ways
+Typed by: AZ Lyrics
+
+"And we fight for you know we are right.
+We must strike at the lies that'll spread like disease to our minds."
+
+It's mind control, they stolen my mind
+
+[Slaine]
+I used to have the mind of a revolutionary now it's dead
+Cause the Devil got these images that's dancing in my head
+If I don't take these pills then I can't get out of bed
+And I gotta pay the bills so I gotta take my meds
+That's what the voice says, it was never there before
+It was another voice that's telling me you're a father, you're a husband
+The argument is hard to win, it leads to more discussion
+Every other thought is rushing like it's fucking water busting
+I've been sleeping with the TV cause I left it on
+Pass out from the Xani bars licking chicken szechuan
+Broken fingers figure shit I think it must've kept em gone
+Otherwise I'm like a ticking effin bomb weapon drawn
+Pace around the floor freaking every creak I'm stepping on
+Thought I heard the cops coming no I must've guessed it wrong
+Flip the stations all around, nothing but deception on
+I don't know what's real or not, hear I'm planning methadone
+
+[Trademarc]
+Look I've never been mistaken for the social type
+Overnight mix and match meds and get the potion right
+Name it I take it I took it I baked it cooked it and ate it
+Like God made it till I'm crooked
+Psycho pharmaceuticals rebooted my brain
+My death is stained by whatever's fun, the proof in my veins
+So when I took it I stare at my reflection like it's throwing threats in my direction
+Now I look at life and cope like any addict
+Might be an addict by candlelight
+Every shade drawn, every day's dawn good and gone as I write
+You can bet it's like street corner hustling
+FDA muscle in funnelling cash into new epidemics
+They usher in mass produced pain
+Paranoia that they mask with their lawyers and brass
+Next stop poisonous gas, chill the citizen's strain
+Chain smoke stacks burn us to ash
+
+We living in them days of the manmade ways
+They brainwashing us, it's America's plan
+I'm about to rebel, we all slaves in the system
+We're dying over money and relying on religion
+We living in them days of the manmade ways
+They brainwashing us, it's America's plan
+I'm about to rebel, we all slaves in the system
+We're dying over money and relying on religion
+
+[Vinnie Paz]
+Yeah, I used to have the mind of a revolutionary but it's gone
+I'm dishevelled, I'm a rebel, I'm a devil with a bomb
+As I settle every motherfucking ghetto has a song
+Put the metal to my temple when I wrestle with Saddam
+Yeah you see the mind control divide your soul
+I rhymed it though in '94 but no
+Y'all ain't listened to anything I was telling y'all
+About the biochip inside you and impending war
+I run over you fucking devils like I'm Mendenhall
+Overseas they dying young, they sending y'all
+The cash system is dead, y'all just pretend to ball
+Glocks and clips, apocalypse repent or fall
+Do y'all believe in the birth of a nation?
+I call it control, they call it coercive persuasion
+Yeah all of them serpents of Satan
+I'm a build a bomb shelter, only let the persons of faith in</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jay Park f/ Hoody
+Album:  Everything You Wanted
+Song:   Solo
+Typed by: AZ Lyrics
+
+[Jay Park]
+(I need a Cha Cha boy)
+Baby 솔직할게 yeah
+나 조금 당황했어 yeah
+이런 경우는 처음이야 나한테 yeah
+지금 어쩔 줄을 몰라 nah
+나 원래 반대 입장이야
+나를 만나려고 다들 줄 서있는데
+
+근데 니가 나타나서 멘붕 상태야
+내 자존심 갖다 버리고 와
+I don't care 널 갖고 싶어 baby
+우리 부모님이 반대하셔도
+친구들이 바보라고 해도
+I don't care 널 갖고 싶어 baby
+
+솔로이길 바래
+나도 얼마 전에 싱글 됐으니까
+너를 너무 원해
+제발 솔로이길 바래
+내가 바쁘더라도 니가 원한다면
+바로 은퇴할게
+제발 솔로이길 바래
+솔로이길 바래 솔로이길 바래 yeah
+솔로이길 바래 솔로이길 바래 솔로이길 바래 yeah
+You got me like woo
+You got me like woo
+You got me like woo
+You got me like woo
+
+[Hoody]
+Single lady 누가 물을 땐
+난 그냥 거짓말로 아니라 했어 baby
+Oh 하지만 내 앞에 진심인듯한 널 볼 땐
+Baby I'm solo from now on
+
+모르겠어 진심인 건지
+한순간의 착각인 건지
+I don't know 왜 날 갖고 싶어 Baby
+얼마나 많은 여자들이
+널 만나려고 줄을 서있는지
+I do know 그래서 불안해
+
+[Jay Park]
+다 괜찮아 그냥 솔로이길 바래 girl
+Aladdin and Jasmine
+I'll show you a whole new world
+매직 카펫 위에 올라타 girl
+걱정하지 마 따라와
+Baby 보여줄게 많은 걸 uh
+콩깍지는 아닌 것 같애
+이름도 모르지만 baby 사랑해
+Nothing on you I just wanna know yo name
+첫 번째는 아니어도
+마지막이 돼줘 baby
+
+솔로이길 바래
+나도 얼마 전에 싱글 됐으니까
+너를 너무 원해
+제발 솔로이길 바래
+내가 바쁘더라도 니가 원한다면
+바로 은퇴할게
+제발 솔로이길 바래
+솔로이길 바래 솔로이길 바래 yeah
+솔로이길 바래 솔로이길 바래 솔로이길 바래 yeah
+You got me like woo
+You got me like woo
+You got me like woo
+You got me like woo</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

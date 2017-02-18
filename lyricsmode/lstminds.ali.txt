@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Kilo Ali
+Album:  Organized Bass
+Song:   Lost Y'all Minds
+Typed by: MdNghtXTC@aol.com, r0llinlacs@yahoo.com
+
+(Hook x4)
+Lost y'all mind (Oh, Lord)
+Some of y'all done lost y'all mind (Oh, God)
+Some of y'all done lost y'all mind
+And it made my cry, cry, cry
+
+(Verse 1)
+Alright, once again it's me
+Kilo Ali with positivity
+You want some loot so you got to hustle
+Drug dealers ain't nothin' but trouble
+Do the crime, you got to pay the price
+What you gon' tell Jesus Christ?
+He don't smoke and he don't get high
+Where the kingpin go after they die?
+Cause it's a sin to sell
+Brother you could go to jail or you could go to hell
+What about a brother thinkin' he a pimp though?
+When he calls our mother a trick ho?
+Or his cousin, or his sister, or his auntie?
+Boy! You better learn to love the ladies
+I think you slippin, but you think you pim-pim-pimpin
+Four nickels and a dime, some of y'all done lost y'all mind
+I said four nickels and a dime, some of y'all done lost y'all mind
+
+(Hook x4)
+
+(Verse 2)
+Since I made White Horse, they think I hate white folks
+Ah man, that gotta be a white joke
+It ain't what I done to my country, it's what my country done to me
+Red, white, and blue, the flag again
+I'll burn it, black American
+I gotta stand up for myself
+Either give me freedom or give me death
+When I rap for the blacks, white folks don't like to hear me talk like that
+Black cop'll lock me up faster
+He'd be a contender of the master
+And I'm lookin' for a brother, but he called me a black mother (Sigh...)
+So I looked him in his eyes, and he made me cry, cry, cry
+I know you gotta make you a living
+But why you gotta hurt my feelings
+Four nickels and a dime, some of y'all done lost y'all mind
+
+(Hook x4)
+
+(Verse 3)
+See the world is a zoo
+And if you live in the world then I'm talkin 'bout you
+Try to touch somebody's hand
+Make this world a better place, if you can
+See all we really need to do is keep the love in our hearts, and we all survive
+Without God we have nothing, with God we have everything
+Yes, that's why I always said
+I said money and clothes, beamers and vogues
+I'd rather go to heaven than any of those
+Money and clothes, beamers and vogues
+I'd rather go to heaven than any of those
+Money and clothes, beamers and vogues
+I'd rather go to heaven than any of those
+Money and clothes, beamers and vogues
+I'd rather go to heaven than any of those
+Money and clothes, beamers and vogues
+I'd rather go to heaven than any of those</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

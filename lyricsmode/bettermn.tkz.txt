@@ -1,0 +1,142 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jaytekz f/ Silver Skye
+Album:  Better Man (S)
+Song:   Better Man
+Typed by: AZ Lyrics
+
+[Silver Skye]
+I remember you said you could only fall in love once
+You looked in my eyes and said I was the one
+Tell me right now where it went wrong
+'Cause once he came in, you left now you're gone
+I don't understand, was he a better man?
+
+Everything you telling him you told me
+The way that you would be holding him, you'd hold me
+He is doing everything I use to do
+And I would have gave the world to you
+You're teaching him everything I taught you
+Sharing with him everything I bought you
+I don't understand, was he a better man?
+
+[JayteKz]
+See I don't get it
+You told me that you love me right
+How the fuck did you move forward nearly overnight?
+I gave you everything, everything a man could give
+You make me feel so fucking worthless
+I don't want to live
+I see your face almost everywhere I go
+We could of had the world but I guess now we will never know
+And that's your fault
+Breaking us up was your cost
+Stabbed me in the heart
+I swear this fucking wound is so raw
+
+[Silver Skye]
+Everything you telling him you told me
+The way that you would be holding him, you'd hold me
+He is doing everything I use to do
+And I would have gave the world to you
+You're teaching him everything I taught you
+Sharing with him everything I bought you
+I don't understand, was he a better man?
+
+[JayteKz]
+So tell me what the fuck he got that I don't have
+Without you, I ain't shit
+I mean you were my other half
+Is it the money, the clothes, his looks, or the diamond rings?
+Is it because I can't afford all of these finer things?
+I'm sorry, I told you that I would make it up
+I wanted to propose
+But I was busy saving up
+But you ain't wait for me
+Instead, you took my heart away from me
+Broke it into pieces, all I got left is this hate in me
+Pray for me
+I hope one day I be ok
+I hope to learn to love again and find my soulmate
+I hope she loves me through my flaws and my imperfections
+Be the center of her love just like an intersection
+And as time goes on
+I hope you realize that you fucking chose wrong
+I'm the one for you
+But you were blind to what's in front of you
+Through all of my suffering
+I still can't get enough of you
+
+[Silver Skye]
+Everything you telling him you told me
+The way that you would be holding him, you'd hold me
+He is doing everything I use to do
+And I would have gave the world to you
+You're teaching him everything I taught you
+Sharing with him everything I bought you
+I don't understand, was he a better man?
+
+No I don't, no I don't, no I don't understand
+Is he doing everything I didn't
+But I know I can
+No I don't, no I don't, no I don't understand
+Guess you probably right
+I guess he is a better man</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

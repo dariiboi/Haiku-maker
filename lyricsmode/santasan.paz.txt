@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Vinnie Paz f/ Ill Bill
+Album:  The Priest of Bloodshed (Mixtape)
+Song:   Santa Sangre
+Typed by: AZ Lyrics
+
+[Ill Bill]
+My discipline go beyond the way the army train people, calmly spray people
+Devil's horns up like Ronnie James Dio or Tony Iommi, cut your fucking arms off
+Stole me a roadie, I'm mob deep like Tony Lionni
+Cross between the Egyptian God of fire? ride ten times higher
+Than a soprano in God's choir
+A Heavy Metal King like? crack on gun metal ring
+Settle things like God's prayer and the Devil's wings
+We feast at the Last Supper, you hear the last laugh from us
+Scrape cash abundant, you hear the gats blast from us
+Roll with? conquer continents like Genghis Khan
+My life is like a Misfits song or like Cypress Hill, hits from the bong
+I'm like Ice T six in the morn, police at my door
+Shoot the beast in the? squeezing the four, creep in the six
+Then breeze to L'amour, the Lords of War for four seasons or more
+Listen
+
+[Vinnie Paz]
+This is goon music, something for Vinnie gun to clap
+Y'all ain't making no progress, y'all still are running laps
+I think of y'all like Christ, y'all never coming back
+Chainsaws and husky bears without the lumberjacks
+Come on pana, Vinnie got a clip full
+I'm a let this four-fifth bark like it's a pitbull
+Money I got a fistful and I got an razor and it cut like if you skip school
+I can be on that fight the power?, shit
+I can be on that Gucci and on that Prada shit
+I can be on that questioning if a God exists
+I can be on that punch in your face and rob you shit
+That's when motherfuckers starving and such
+Dry snitching, all y'all motherfuckers crying too much
+Give me a jar and the dutch
+I just caught a body and I'm proud of all this rhyming and such, yeah</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

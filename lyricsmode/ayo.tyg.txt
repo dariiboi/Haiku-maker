@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Chris Brown & Tyga
+Album:  Fan of a Fan: The Album
+Song:   Ayo
+Typed by: Cedmaster3K
+
+"I need you" {*repeated throughout the song*}
+
+[Chorus: Chris Brown]
+We poppin' like - aiyyo
+All my bitches got real hair chillin' with the top down
+Screamin' like - aiyyo
+I'ma take her ass down when she bring her friend around
+Fuck 'em both like - aiyyo
+I'm a bougie ass nigga left the roof at home
+We poppin' like - aiyyo, aiyyo, aiyyo
+But don't be actin' like I need you
+
+[Tyga]
+AHH! Aye babe this my new shit
+I'm the black Richie Rich with the roof missin'
+If it don't make dollars it don't make sense
+Z, wake up like I gotta get it
+And I got a engine with a trunk space
+I get money three ways, fucking bitches three ways
+Seven different foreigns plus she's no hablé
+But I make that bitch walk with some cheesecake
+Yeah, I'm the coldest nigga, icy
+Lookin' in the mirror like I wish I could be me
+She too into me, I'm more into money
+My hobby's her body, that pussy's my lobby
+I'ma eat it, I'ma eat it
+I don't lie, hold my dick, too conceited
+Uh, told her she's my wife for the weekend
+But don't be actin' like I need you cause we poppin' like
+
+[Chorus]
+
+[Chris Brown]
+I'm in a Rolls, you don't roll right
+My chain shine brighter than a strobe light (yeah)
+I'm tryna fuck Coco, this don't concern Ice
+If I motorboat, she gon' motorbike
+A nigga ain't worried about nothin'
+Rehabilitation just had me worried about fuckin'
+Money, decision-makin' only worried about stuntin'
+She worried about me, her nigga worried about cuffin'
+I wanna see her body (body)
+She said "Get inside of me
+I wanna feel you baby (yeah)
+Just bring the animal right out of me"
+We lovin', she love it
+Especially when I go down on her
+Now we fuckin', she thuggin'
+Gettin' loooud {cause we poppin' like}
+
+[Chorus]
+
+[Chris Brown] + (Tyga)
+Huh, look, alright
+Now, now I can spot your bitch from a mile away
+Valentine in that pussy, it's a holiday
+(Uhh, you losin' money, I windmills, Dr. J)
+(She goin' to follow my lead, +Simon Says+)
+Paper paper, I'm ridin' scrapers in California
+Car smellin' like ammonia, we got that stank on us
+(Never been an OutKast that +Stank+ on ya)
+(From the ghetto but my bitch like Apollonia)
+We in the hood, tatted like a Mexican
+Car too fast, give a fuck about pedestrians
+(And my section less niggas, more lesbians)
+Got your bitch, I'm that nigga!
+
+[Chorus]
+
+[Outro: Tyga]
+Yeah, this that fly shit, King shit only
+Drop top, no roof - AHH!</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

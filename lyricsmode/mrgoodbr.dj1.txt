@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: DJ Rude One f/ Your Old Droog
+Album:  ONEderful
+Song:   Mr. Goodbar
+Typed by: kirenamloh@msn.com
+
+[Intro]
+Y-O-D
+Rude One, waddup!
+Yeah, check it out, check it out
+
+[Your Old Droog]
+Old Droog keep a fly bunny
+On a leash like, "Bitch betta have my money!"
+Your girl smoke Newports and sound wild funny
+Voice deeper than I-20's
+Vocal chords be +Disturbing Tha Peace+
+Muh'fuckers youse a herb in the East
+Heard they about to do you like Ching-a-Ling
+Tryna say that your girl got a ding-a-ling
+{HEE-SHEE~!} Blowticious
+What do you know, the flow is so vicious
+Cause I'm hungry, the crib got no dishes
+No saltwater tank, no +Fishes+
+Only +Swedish+ ones from the corner store
+I was born to poor parents who wanted more
+American dream, here I am spittin dope rhymes
+that are never generic in theme
+And when they are, beats still clean
+Go flex on 'em - mean
+All around the world, I seen women fiend
+Wrote numbers, in Gene Simmons jeans
+Joints out in Pasadena
+Wash Heights homes who still bump "Gasolina"
+More freaks than the week they tried to cast "Selena"
+You can't see me
+
+[Chorus: Your Old Droog]
+More than just a hood star, call me Mr. Goodbar
+Listen close you'll find something really good in every bar
+
+[Your Old Droog]
+Any time that your hear a Droog rhyme I drop zingers
+No more mob ringers, but he lingers
+Where fiends still cop from slingers
+Crackheads got pipes like opera singers
+Former drug dealers to the stars
+Are now owners of motherfuckin juice bars
+Some still sell, they go back
+Sold that boy the Hillel Slovak
+(Who?) Y'all cats is so whack
+And I'm iller with the pen than the Zodiac killer
+Phyllis/Feel this, like Diller/Dilla
+I'm talkin Jay Dee and that old lady, it's no one realer
+Stayin the same, I already got the best wordplay in the game
+And the metaphors, they don't even comprende those
+These pendejos should pay me to pen they flows
+I hook 'em up, literally with choruses
+Smoke verses and I burn bridges like self-sabotage
+Even on Sabbath we charge, Sunday I have a menage
+Givin me shine's one thing they got right
+Fuck the game, thrust into the spotlight
+Think I'm in it for the fame? Well not quite...
+
+[Chorus]
+
+[Your Old Droog]
+Bo Garden like Biggavel', no pardon
+Go hard in the paint
+I'm focused on the universe in my reach
+Y'all cats in thirstin, all you do is reach
+Easily replaceable
+You got bars, well I got suitcases full
+Used to keep a book just for punchlines
+Right next to the Big L and Pun shrine
+Fresh Chucks and a Pelle clean
+For gettin biz, I'm notorious
+Crush you like a jelly bean
+My shit early L.L. mean, you rock L.L. Bean
+We dipped in Ferragam'
+Pay stacks, lay back with an air of calm
+Writin' rhymes in the crib with a Ferrer Farm
+
+[Chorus]
+
+[Outro]
+Check-check-check, Your Old Droog
+DJ Rude One, we in here</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

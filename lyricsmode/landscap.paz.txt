@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Vinnie Paz f/ Reef the Lost Cauze, Slaine
+Album:  The Priest of Bloodshed (Mixtape)
+Song:   Landscapes
+Typed by: AZ Lyrics
+
+[Slaine]
+From Roslindaley to Philly to anywhere on the map really
+I been spitting real raps like a bastard
+Clapping with the Mac milli
+What's happening is I'm actually stacking
+Strictly re-enacting life graphically
+I've been challenging these cats to come and ask with me
+If they can but they can't cause I'm that shifty
+My army is too large, my conscience been drowning
+I dumped his ass in the fucking lake, he never been found
+And I've been down and out, rose out of my own ashes
+The rest of you's is stupid as dogs sniffing your own asses
+When I was grown I seen holmes making his own acid
+Sniffing coke with his folks then coming home plastered
+I seen suicides, overdoses, and chrome blasted
+I war with people who wanted me in my own casket
+I made it out alive in stereo to stare at you
+The Dimock to seven-figures right here in America
+
+Ghetto landscapes, where a man is determined by how much a man make
+
+[Reef The Lost Cauze]
+Lost Cauze lyrical leviathon, literally leave your limbs
+Littered laying in the lion's den
+Lying men make we want to fire ten into their spine and limbs
+Buy them a fucking heart, you got beef then don't deny it then
+Fuck a fair one, air gun share some
+The MAC make a fat nigga leap like Air Pun
+God rest the dead but God bless your head (no homo)
+And my dojo is calm, breath, and lead
+I sit in a dank basement blowing bank statements
+On a dank fragrance planning my next invasion
+Like Slaine in The Town flick, quick as a hundred rounds spit
+You fucking pussy cats, I'm a hundred pound pit
+Astounding rocking a hoodie make of hound's skin
+My balls, your broad loves her lips around them
+A nigga say he fucking with me, he a clown then
+You should kill yourself for even hanging around him
+
+Ghetto landscapes, where a man is determined by how much a man make
+
+[Vinnie Paz]
+I rose above everything they threw at the kid
+Pops dead, no fucking bread, doing the bid
+I had a choice, I could rhyme or put two in your wig
+Cause an option for me was never pursuing a gig
+Yeah I made demos, they spit in my face, begin again
+I started having reservations like an Indian
+I'm a man of God but I started to sin again
+Cause motherfuckers was sleeping on me like Lithium
+It's a lot of years later I'm still nice with the hands
+I'm a dick to my people but I'm nice to the fans
+Some other rappers talk shit but they rightfully stand
+Dig in the same fucking place where they rightfully stand
+Me and Slaine been around the fucking world together
+Drinking bottles, sniffing something, fucking girls together
+And the objective is to take over the world together
+And the objective is to take over the world together
+
+Ghetto landscapes, where a man is determined by how much a man make</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

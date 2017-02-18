@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Vinnie Paz f/ Yes Alexander
+Album:  Carry On Tradition (EP)
+Song:   Is Happiness Just a Word?
+Typed by: AZ Lyrics
+
+Run (Go ahead and)
+Run (Go ahead and)
+Run (Go ahead and)
+
+[Yes Alexander:]
+Darkness comes beneath the dying stars
+With all the blood and scars
+My mouth will hunt you
+With fear - I appear
+Nothing will stop me
+You crave the creature in me
+Shattered, I will capture you
+So run
+
+[Vinnie Paz:]
+My family don't understand what I go through
+Under diagnosed for 20 years, ain't never broke through
+You ever been in such a fog you don't know you?
+Never being able to do the shit you're supposed to?
+I wouldn't wish it on anyone that I'm close to
+Wouldn't wish it on anybody that I'm opposed to
+There's not an accurate diagnosis to show you
+Basic neurobiology isn't close to it
+I'm watching life as a spectator
+I can't help myself, even though I possessed data
+It's not a part of my spirit to want to test nature
+You think you know what I'm feeling, cousin, then let's wager
+I'm having trouble retaining new information
+Familiar scenes starting to look foreign- derealization
+Everybody tired of being patient
+Mama wondering why her baby crying in the basement
+Constant rumination just exacerbates it
+To the point where I can't even barely narrate it
+I've had doctors tell me that my mind is fascinating
+But they can't tell me why the sickness has been activated
+
+[Yes Alexander:]
+Darkness comes beneath the dying stars
+With all the blood and scars
+My mouth will hunt you
+With fear - I appear
+Nothing will stop me
+You crave the creature in me
+Shattered, I will capture you
+So run
+
+[Vinnie Paz:]
+My head don't work, the meds don't work
+But I don't want to be dead, dead don't work
+Sleep's the cousin of death, the bed don't work
+Maybe I'd rather be dead; dead don't hurt
+Realization of an inherent emptiness
+Maybe that's another sin for the pessimist
+Possibly I am a jinn with a exorcist
+I've fallen because I've been on the precipice
+Maybe it's my mama's possible regret
+Maybe it's a neurological neglect
+Maybe it's the reason why water's wet
+The angular gyrus and where the frontal lobe connect
+But maybe I'm being too complicated for you
+Maybe I should just be calm and explain it to you
+The psychiatrist thinking they could fool you
+Paxil, Zoloft, it's just wasteful to you
+I've tried meditation, tried to sit in silence
+But how the fuck that help a neurochemical imbalance?
+Why would you tell a person that they were childish
+Without an understanding of the pain that they surround in?
+I always feel foggy somatic detatchment
+It's like my body isn't connected to actions
+It destroys everything that's affected the fragments
+I don't have nothing but senses and sadness
+
+[Yes Alexander:]
+Darkness comes beneath the stars
+With all the blood and all the scars
+Nothing will stop me
+You crave the creature inside
+
+Darkness comes beneath the dying stars
+With all the blood and scars
+My mouth will hunt you
+With fear - I appear
+Nothing will stop me
+You crave the creature in me
+Shattered, I will capture you
+So run
+
+Run...</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

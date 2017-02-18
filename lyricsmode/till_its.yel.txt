@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Yelawolf
+Album:  Love Story
+Song:   'Till It's Gone
+Typed by: Nickolye16@aol.com 
+
+[Yelawolf]
+I'm not the table you can come and lay your cup down on now
+I'm not the shoulder for a bag, don't wanna carry ya heavy load
+I'm not the road that you take when you're lookin for a shortcut, uhh
+I ain't the steppin stone to be steppin on, I ain't nobody's crutch
+I ain't the money man, with your money man, you ain't lookin at me
+I'm not the cheap one, lookin at me son, you ain't lookin at free
+I ain't the dish rag to come clean up all the shit that you dish out
+Ain't got no check for 'em, if you checkin in motherfucker check this out
+
+[Chorus: Yelawolf]
+Ain't much I can do but I do what I can
+But I'm not a fool, there's no need to pretend
+Just because you got yourself in some shit
+It doesn't mean I have to come deal with it
+You handle your own when you become a man
+And become a man when you handle your own
+Ain't much I can do but I do what I can
+But what can I do if I do 'til it's gone?
+Oh-oh-oh, oh-oh-oh, 'til it's gone
+Oh-oh-oh, oh-oh-oh, 'til it's gone
+Oh-oh-oh, oh-oh-oh, 'til it's gone
+Oh-oh-oh, what can I do if I do 'til it's gone?
+
+[Yelawolf]
+I'm not the the trash can, not the last man at the finish line now
+I'm not the new kid on the block that you can just follow and push around
+I'm not the fuckin needle in the haystack that you finally found
+This ain't no free rent, come and pitch a tent, you ain't tyin me down
+I'm not a bus ride you can hop inside and just roll away clean
+Like the wheel on the wagon you wanna break, cause I hold up the weight for the team
+I'm not the gold watch and the new truck that you schemin to check out
+Unless you're lookin to check out {*pop pop pop*} what a mess now
+C'mon
+
+[Chorus]
+
+[Yelawolf]
+I jump to the sky for my people
+I walk through the fire, I give love when it's equal
+Don't, tell me not to complain about my, money and fame
+When you come around and tellin me I changed, damn right I fuckin changed
+When there's fuckin change in my pocket, hit the bucket, it was a rocket all the sudden
+I went from shoppin without nothin, to goin shoppin for my cousins
+Now that the cops know that I'm buzzin, they wanna drop me in the oven
+Pull me over just to say "I'm a fan," hip-hop, you gotta love it
+Fuck it
+
+[Chorus]</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Big Sean
+Album:  I Decided.
+Song:   Moves
+Typed by: AZ Lyrics
+
+Yeah
+Sex game had her ass blowing me up
+Sex game had her ass texting me up
+Yeah
+808 Mafia
+Whoa
+
+I got the moves
+I got the moves
+I'm making moves
+You gotta move (you gotta move)
+She make that back move (damn)
+She made her titties move (goddamn)
+I make the city move (like whoa)
+I make the city move
+I got the moves (I'm making moves)
+I got the moves (I got the moves)
+I'm making moves (I'm making moves)
+You gotta move (you gotta)
+She make that back move (damn)
+She made her titties move (goddamn)
+I make the city move (l do)
+I make the city move (I do)
+
+Look, give me the ball and I will have to pass it
+I ain't passing out until I'm asthma attacking
+I take a plan and then I back to back it
+Hit after hit, check the batting average
+I take the work, flip it, acrobatic
+Got a little time and a lot of talent
+Do a little talking and a lot of action
+Seen the competition, hmm.. not a challenge
+I lean, I move, I walk through in this bitch
+Packed out but I can count on my hands
+Who I'mma talk to in this bitch
+Girl's from law school in this bitch
+Yeah, they Paralegals, barely 21
+That's very legal, but they doing shit that's probably barely legal
+Awe man
+It's that nigga that you probably least expected
+I just had a couple dots that need connecting
+Now your top 5 getting redirected
+From here on out it'll be consecutive
+We making moves like Tarantino, like J.J. Abrams
+Moving like Channing Tatum
+Moving like Jason Statham
+Motherfuck the whole industry
+Half of these niggas my mini-me's
+I got this bitch going off more than breaking and entering
+You hot for a minute, me
+I make the shit that last for infinity
+Hop in the booth, man that shit like a gym to me
+Don't test the agility
+Silly, silly, thinking that the negativity
+you talking could ever fuck up the tranquility
+Okay, okay, okay, I'm on Rodeo for the day
+If you owe me then you better pay your layaway, away
+Stay away, or your ass might get K.O., kay today
+Man that "pew! pew!" hit your ass from like way, oh ways, away
+
+I got the moves
+I got the moves (whoa)
+I'm making moves
+You gotta move (you gotta move)
+She make that back move (damn)
+She made her titties move (goddamn)
+I make the city move (like whoa)
+I make the city move
+I got the moves (I'm making moves)
+I got the moves (I got the moves)
+I'm making moves (I'm making moves)
+You gotta move (you gotta)
+She make that back move (damn)
+She made her titties move (goddamn)
+I make the city move (I do)
+I make the city move (yeah I do)
+
+Look, I'm a don, I'm a don, I'm a don (don)
+I gave my whole family jobs and I take care of my mom
+808 Mafia
+Me and my girl been through so much, that's my partner in crime
+Touch any of the above, now you're harder to find
+Gone</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

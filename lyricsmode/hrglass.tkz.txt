@@ -1,0 +1,124 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: Jaytekz
+Album:  Hourglass (S)
+Song:   Hourglass
+Typed by: AZ Lyrics
+
+I close my eyes and let my mind contemplate
+Would i be satisfied if I died today?
+Would i be happy with the person I'm becoming?
+A dollar in the dream I'm trying to turn into something
+If its nothing
+Well, at least I tried right?
+I've been patiently waiting for when my time is right
+But then I stop and quickly ask myself
+
+What happens when life brakes down?
+
+What happens when your life just breaks down?
+You beg for help but no response, not a single sound
+And all you got is you
+The voices in your head, you try to drown them out
+But they overflow instead
+You think you're dead cuz your thoughts are going up
+You're boxed up in your corner not a single place to run
+You're asking for forgiveness but you ain't gettin' shit back
+So you sit back and lose yourself within these tracks
+It's how my life works
+It's all I ever do
+I get confused [?]
+I never knew that my voice would be global
+Fans around the world
+Yo my shits no longer local
+Hopefully, this is just the start of something beautiful
+Music for the soul way more further than the usual
+
+And if I die play my music at my funeral
+And if I die play my music at my funeral
+
+My dad is still in prison
+Yo nothing hasn't changed
+He's still stuck behind in a cell with some fucking chains
+When will it change?
+When will he find his way out?
+Cuz I've been waiting my whole life for this day now
+I'm losing all my patience
+My temper's running short
+So fuck a law, fuck a cop, and the fucking court
+Yo fuck a judge and fuck the whole system
+You take a man's life and you tell me who's the fucking victim
+And that's the world that we live in
+Catered to the rich while we're fed like some pigeons
+Slipping at the bottom so we can never rise
+It's fucked up when they sugarcoat the truth with the lies
+So i stay loyal to myself
+Family and god ain't no room for no one else
+I promise you imma change the world day by day
+And imma bring you hope with ever word i gotta say
+And if they kill me then fuck it i go out with a bang
+My brains every where just to let my thoughts hang
+There's blood upon this mic to these rappers know i came
+I'm in it for the passion fuck the money and the fame
+I do this for my fans, I do this for my dad
+I do this for the ones that never had a dream to catch
+I do this for myself cuz this is what I love
+I started out with nothing now just watch what I become</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>

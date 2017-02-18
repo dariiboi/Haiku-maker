@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+        <meta http-equiv="charset" content="ISO-8859-1" />
+        <meta http-equiv="content-language" content="English" />
+        <meta http-equiv="vw96.object type" content="Document" />
+        <meta name="resource-type" content="document" />
+        <meta name="distribution" content="Global" />
+        <meta name="rating" content="General" />
+        <meta name="robots" content="all" />
+        <meta name="revist-after" content="2 days" />
+        <link rel="shortcut icon" href="http://www.ohhla.com/favicon.ico" />
+        <title>The Original Hip-Hop (Rap) Lyrics Archive</title>
+
+        <!-- link rel="stylesheet" type="text/css" href="http://ohhla.com/files/main.css" / -->
+	        <!-- BEGIN SITE ANALYTICS //-->
+        <script type="text/javascript">
+        if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+        siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+        siteanalytics.website_id = 180;
+        siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+        </script>
+        <script type="text/javascript" src='http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js'></script>
+        <!-- END SITE ANALYTICS //-->
+
+</head>
+
+<body>
+
+<a href="javascript: history.go(-1)">Back to the previous page</a>
+
+<div>
+</div>
+
+<div style="width: 720px; text-align: center; color: #ff0000; font-weight: bold; font-size: 1em;">
+
+                       <!-- AddThis Button BEGIN -->
+                                <div class="addthis_toolbox addthis_default_style" style="margin: auto 0 auto 0; padding-left: 185px;">
+                                <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+                                <a class="addthis_button_tweet"></a>
+                                <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+                                <a class="addthis_counter addthis_pill_style"></a>
+                                </div>
+                                <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e8ea9f77f69af2f"></script>
+                        <!-- AddThis Button END -->
+
+</div>
+
+<br />
+
+<div style="float: left; min-width: 560px;">
+<pre>
+Artist: DJ Rude One f/ Chief Chinchilla, J-Zone
+Album:  ONEderful
+Song:   Cop Hell 2016
+Typed by: kirenamloh@msn.com
+
+[Intro: J-Zone]
+Yo Chief, why the fuck is your arm in a sling?
+What the fuck happened to you, man?
+
+[Chief Chinchilla]
+Man, I was down at the Note checkin out my man DJ Rude One (Word?)
+I was about to leave with this bitch, had a body like a MAYTAG~! (Ehhaha!)
+I had a warrant though, the cops arrested me, man
+Beat me up, fucked up!
+
+[J-Zone] (Chief)
+Aw shit! Damn, they fucked you up like that?
+I gotta talk about these muh'fuckers, I'm tired of this shit
+
+I'm sendin cops to Cop Hell (Get 'em!) with gasoline draws (draws!)
+Another brother courted on some probable cause (Word?)
+Courtesy of America's number one gang of roughnecks
+The +Blue Man Clan Ain't Nuttin Ta Fuck Wit+
+Mad enough to get my roll on (Get 'em!)
+And if they call us thugs instead of niggaz, go on and fuck up that patrol car!
+(I got first!) Cause I respect a dude who don't, sugarcoat the truth
+You don't trust me, I don't trust you and cooperate and FUCK YOU!
+(Fuck you!) Get that flashlight out of my face
+OH SHIT~! Another poo butt cop with a crew cut (Look at the guy!)
+who sells what he confiscates, even to constitute sluts
+His wife wants a divorce cause he left her all bruised up
+(Yo Zone, could you please stop dissin 5-0?)
+Chief, why try? Crooked pigs deserve to die slow
+Slugs hit a crooked cop in the face and give him dimples
+Now he here lookin like Ma$e for treatin us like criminals (Aw shit!)
+Punk I thought I told you that, we won't stop
+Naw, I didn't +Invent the Remix+, but peep this!
+Real +Bad Boys+ don't pop Cristal on a Arista imprint (Hell no!)
+They'll kill you and give your man who film the shit you a sentence
+(Ain't that some shit?)
+So it's only human for an otherwise peaceful man to want vengeance (Word!)
+I know all cops (uh), ain't bad people
+Neither are all pimps, dope dealers and thieves, so what the FUCK does that mean?!
+You wanna ring my bell? Ya fuckin A right
+It ain't no snitchin, it's a war and we're livin in Cop Hell
+(Fuck away from me, man)
+
+{*DJ Rude One cuts and scratches "Cop Hell!"*}</pre>
+</div>
+
+<div style="float: left;">
+</div>
+
+</body></html>
