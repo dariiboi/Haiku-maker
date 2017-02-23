@@ -1,3 +1,4 @@
+from __future__ import division
 import string 
 import pickle
 from bs4 import BeautifulSoup
@@ -5,25 +6,44 @@ import csv
 import re
 import os
 import sys
+
 sys.getdefaultencoding()
 badcount = 0
 path = '/Users/darius/Documents/ComSci2/project4/lyricsmode'
 dict1 = {}
+words = []
 dict2 = {}
+wordCount = 0.0
 #count the words
 def count(line):
 	global dict1
 	global dict2
+	global wordCount
 	words = line.split(' ')
+	for i in words:
+		wordCount +=1.0
+	
 	for i in range(2,len(words)):
 		if words[i] in dict1:
 			if words[i-1] in dict1[words[i]]:
-				dict1[words[i]][words[i-1]] += 1
+				dict1[words[i]][words[i-1]] += 1.0	
 			else:
-				dict1[words[i]][words[i-1]] = 1
+				dict1[words[i]][words[i-1]] = 1.0
+			#Turn word count into probability by dividing it by the total number of words
+			dict1[words[i]][words[i-1]] = dict1[words[i]][words[i-1]] / wordCount
 		else:
 			dict1[words[i]]={}
-
+		#look 2 words back and add that to dictionary 2	
+		if words[i] in dict2:
+			if words[i-2] in dict2[words[i]]:
+				dict2[words[i]][words[i-2]] += 1.0	
+			else:
+				dict2[words[i]][words[i-2]] = 1.0
+			#Turn word count into probability by dividing it by the total number of words
+			dict2[words[i]][words[i-2]] = dict2[words[i]][words[i-2]] / wordCount
+		else:
+			dict2[words[i]]={}
+		
 
 
 for filename in os.listdir(path):
@@ -72,6 +92,7 @@ for filename in os.listdir(path):
 		if re.match('\w+',line):
 			newline = '$ ' + line + ' #'
 			count(newline)
-print(dict1['#'])
+
+print(dict2['man'])
 
 
