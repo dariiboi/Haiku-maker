@@ -43,8 +43,8 @@ def count(line):
 			dict2[words[i]][words[i-2]] = dict2[words[i]][words[i-2]] / wordCount
 		else:
 			dict2[words[i]]={}
-		
-
+	#pickle.dump( dict1, open( "save.p", "wb" ) )	
+	#pickle.dump( dict2, open( "save2.p", "wb" ) )
 
 for filename in os.listdir(path):
 	#filename = filename.decode('utf8')
@@ -92,7 +92,6 @@ for filename in os.listdir(path):
 		if re.match('\w+',line):
 			newline = '$ ' + line + ' #'
 			count(newline)
-
-print(dict2['man'])
+print(dict1['fuck'])
 
 
