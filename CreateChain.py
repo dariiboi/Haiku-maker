@@ -7,44 +7,39 @@ import re
 import os
 import sys
 import random
+import pprint
+
 sys.getdefaultencoding()
 badcount = 0
 path = '/Users/darius/Documents/ComSci2/project4/lyricsmode'
 dict1 = {}
 words = []
-dict2 = {}
 wordCount = 0.0
-#count the words
+
+def generate_trigram(words):
+    if len(words) < 3:
+        return
+    for i in range(len(words) - 2):
+        yield (words[i], words[i+1], words[i+2])
+ 
+ #count the words
 def count(line):
 	global dict1
-	global dict2
 	global wordCount
 	words = line.split(' ')
-	for i in words:
-		wordCount +=1.0
-	
-	for i in range(2,len(words)):
-		if words[i] in dict1:
-			if words[i-1] in dict1[words[i]]:
-				dict1[words[i]][words[i-1]] += 1.0	
+	wordCount += len(words)
+	for word1, word2, word3 in generate_trigram(words):
+		key = (word1, word2)
+		if key in dict1:
+			if word3 in dict1[key]:
+				dict1[key][word3] += 1.0
 			else:
-				dict1[words[i]][words[i-1]] = 1.0
-			#Turn word count into probability by dividing it by the total number of words
-			dict1[words[i]][words[i-1]] = dict1[words[i]][words[i-1]] / wordCount
+				dict1[key][word3] = 1.0
 		else:
-			dict1[words[i]]={}
-		#look 2 words back and add that to dictionary 2	
-		if words[i] in dict2:
-			if words[i-2] in dict2[words[i]]:
-				dict2[words[i]][words[i-2]] += 1.0	
-			else:
-				dict2[words[i]][words[i-2]] = 1.0
-			#Turn word count into probability by dividing it by the total number of words
-			dict2[words[i]][words[i-2]] = dict2[words[i]][words[i-2]] / wordCount
-		else:
-			dict2[words[i]]={}
-	pickle.dump( dict1, open( "save.p", "wb" ) )	
-	pickle.dump( dict2, open( "save2.p", "wb" ) )
+			dict1[key] = {}
+			dict1[key][word3] = 1.0
+		
+
 
 for filename in os.listdir(path):
 	#filename = filename.decode('utf8')
@@ -92,7 +87,11 @@ for filename in os.listdir(path):
 		if re.match('\w+',line):
 			newline = '$ ' + line + ' #'
 			count(newline)
-#print(dict1['man'])
+for key in dict1:
+	for word in dict1[key]:
+		dict1[key][word] = dict1[key][word]/wordCount
 
+pprint.pprint(dict1)		
+pickle.dump( dict1, open( "triChain.p", "wb" ) )	
 # GENERATE OUTPUT
 
